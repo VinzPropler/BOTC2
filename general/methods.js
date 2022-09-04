@@ -30,6 +30,6 @@ exports.conf = {
 
 exports.help = {
   name: 'methods',
-  description: 'zxcr9999',
+  description: 'Vinz505',
   usage: 'methods'
 }
