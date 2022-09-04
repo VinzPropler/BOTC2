@@ -13,7 +13,7 @@ if (message.channel.id != room) {
 if(!args[0]) {
 	const embed1 = new Discord.MessageEmbed()
 	.setColor('RANDOM')
-	.setTitle('🚀 **ZER0 BOT** 🚀')
+	.setTitle('🚀 **VINZ BOT** 🚀')
 	.setDescription("**Layer 7** \n `HTTP-RAW` \n **Layer 4** \n `HOME`")
 	message.channel.send(embed1);
 	return;
